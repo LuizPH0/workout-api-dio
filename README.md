@@ -90,9 +90,7 @@ Fastapi-pagination: https://uriyyo-fastapi-pagination.netlify.app/
 
 # Connect with me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zawarudobngdev)](https://github.com/zawarudobngdev)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-meranca/)](https://www.linkedin.com/in/murilo-meranca/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5518998075351&text=Hello!)](https://api.whatsapp.com/send?phone=5518998075351&text=Hello!)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:murilo.m@hotmail.com)](mailto:murilo.m@hotmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zawarudobngdev)](https://github.com/LuizPH0)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-p-hatem/)](https://www.linkedin.com/in/luiz-p-hatem/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:murilo.m@hotmail.com)](mailto:luizhatemcs@gmail.com.com)
 
-<img width="25%" height="25%" src="https://github.com/zawarudobngdev/zawarudobngdev/blob/master/dog.png">
